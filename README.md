@@ -9,4 +9,7 @@
 ║                                                   ║ ┣━━ experimented with a lot of technologies <a href="https://github.com/xR86?tab=repositories">[1]</a>,<a href="https://sourcerer.io/xr86">[2]</a>
 ║ Follow me on Linkedin <a href="https://www.linkedin.com/in/dan-alexandru-is/">@dan-alexandru-is</a>           ║ ┃ 
 ╚═══════════════════════════════════════════════════╝ ┗━━ free time: 📷, 🛠️, 🎨 
+
+Work accounts:
+- <a href="https://github.com/BlueprintConsulting">BPCS</a>: <a href="https://github.com/ext-dalexandru">@ext-dalexandru</a>
 </pre>
